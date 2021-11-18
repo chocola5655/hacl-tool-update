@@ -1,0 +1,1 @@
+mshta vbscript:create("wscript.shell").popup("登入成功",7,"Hack Tool error",64)(window.close)
